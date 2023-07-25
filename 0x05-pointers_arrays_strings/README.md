@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x05. C - Pointers, arrays and strings
 1. function that takes a pointer to an int as parameter and updates the value it points to to 98.
 2. function that swaps the values of two integers.
@@ -10,3 +11,6 @@
 9. function that prints n elements of an array of integers, followed by a new line.
 10. function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 11. 
+=======
+a program that generates random valid passwords for the program 101-crackme.
+>>>>>>> 952e16696834038324a51c5bb999db1224688714
