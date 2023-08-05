@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+#ifndef MAIN_H
+#define MAIN_H
+#include <stddef.h>
+
+>>>>>>> a173dcf264045ec1a49dca2bd0889f3eb3aa356e
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
@@ -20,3 +27,7 @@ char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
 #endif
+<<<<<<< HEAD
+=======
+
+>>>>>>> a173dcf264045ec1a49dca2bd0889f3eb3aa356e

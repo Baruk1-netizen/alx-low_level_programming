@@ -15,4 +15,8 @@ int _atoi(char *s);
 int _putchar(char c);
 
 
+<<<<<<< HEAD
+#endif /*Bwave Bright*/
+=======
 #endif /*best*/
+>>>>>>> 952e16696834038324a51c5bb999db1224688714
